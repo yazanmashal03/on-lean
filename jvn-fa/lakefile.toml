@@ -1,0 +1,10 @@
+name = "jvn-fa"
+version = "0.1.0"
+defaultTargets = ["jvn-fa"]
+
+[[lean_lib]]
+name = "JvnFa"
+
+[[lean_exe]]
+name = "jvn-fa"
+root = "Main"
